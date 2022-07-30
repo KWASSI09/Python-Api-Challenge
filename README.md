@@ -1,4 +1,6 @@
-# Unit 6: What's the Weather Like?
+# API Homework: What's the Weather Like?
+
+![](WeatherPY/Images/equatorsign.png)
 
 ## Background
 
